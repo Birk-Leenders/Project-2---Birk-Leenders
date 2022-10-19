@@ -48,7 +48,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 32
+  spritePixelsToUnits: 8
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -171,11 +171,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 176
-        width: 64
-        height: 64
+        y: 0
+        width: 128
+        height: 240
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -183,111 +183,6 @@ TextureImporter:
       bones: []
       spriteID: 938f1a21178f07741bbadc5912fe33f4
       internalID: 1763621776
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: skyline-a_1
-      rect:
-        serializedVersion: 2
-        x: 64
-        y: 176
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 234950a009d59ce4e9e186a38a36aa9d
-      internalID: 1639624180
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: skyline-a_2
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 112
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 10adbaca73ecf584ea8dc10f5a76008f
-      internalID: 1125090697
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: skyline-a_3
-      rect:
-        serializedVersion: 2
-        x: 64
-        y: 112
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: bfecc40c380e09449a47663eaec95f12
-      internalID: 1259449227
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: skyline-a_4
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 48
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ac793b50ff3457147b99a5bb2832d8bf
-      internalID: 1909346644
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: skyline-a_5
-      rect:
-        serializedVersion: 2
-        x: 64
-        y: 48
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e0a365f066564404ba37805dd5d5bd23
-      internalID: 693666594
       vertices: []
       indices: 
       edges: []
@@ -304,11 +199,6 @@ TextureImporter:
     secondaryTextures: []
     nameFileIdTable:
       skyline-a_0: 1763621776
-      skyline-a_1: 1639624180
-      skyline-a_5: 693666594
-      skyline-a_2: 1125090697
-      skyline-a_4: 1909346644
-      skyline-a_3: 1259449227
   spritePackingTag: 
   pSDRemoveMatte: 0
   userData: 
